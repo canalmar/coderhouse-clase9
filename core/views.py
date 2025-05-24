@@ -4,9 +4,9 @@ from django.http import HttpResponse
 def index(request):
     context = {
         "nombre": "vero",
-        "rol": "tutora"
+        "rol": "tutora",
     }
-    return render(request,"core/index.html", context)
+    return render(request,"core/index.html",context)
 
 def saludar(request):
     return HttpResponse("Hola desde Django!")
