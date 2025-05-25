@@ -8,3 +8,5 @@ Profesor: Esteban H. Acevedo
 [LinkedIn](linkedin.com/in/esteban-acevedo-aberastain)
 
 ## Alumno
+
+Pendiente finalizar
